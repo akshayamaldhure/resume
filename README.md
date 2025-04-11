@@ -20,6 +20,7 @@ Lead Test Engineer skilled in software testing, tooling, and automation. Proven 
 *Dec 2019 – Feb 2021*
 
 - Led testing efforts and test automation systems for Gojek's **Pricing**, **Platform**, **Cartography**, and **GoFood** teams by building robust API client libraries and automated test suites integrated into CI/CD pipelines, enabling high-quality software releases in agile environments.
+- Led a team of **3 test engineers**, mentored, established best testing practices, and ensured quality delivery through code reviews, and testing standards.
 - Reduced software testing and release cycles from **5 days** to **under 20 minutes** by designing and implementing a scalable, multi-project Continuous Integration (CI) setup using reusable CI/CD templates.
 - Achieved and maintained **95%-100%** automation coverage on critical test cases across backend services, with over **400** fast, reliable, and actionable functional tests executed in under **10 minutes**.
 - Developed and deployed reusable Git hooks for pre-commit linting, static analysis, and unit testing, reducing CI processing time by up to **10 minutes** per service change.
