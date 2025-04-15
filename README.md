@@ -6,7 +6,7 @@ Lead Test Engineer skilled in software testing, tooling, and automation. Proven 
 
 ---
 ## Core Competencies
-- **Quality Engineering & Leadership:** Technical team leadership, cross-functional collaboration, engineering mentorship, setting high testing standards, technical recruiting
+- **Test Engineering & Leadership:** Technical team leadership, cross-functional collaboration, engineering mentorship, setting high testing standards, technical recruiting
 - **Test Automation:** Test automation (backend, mobile, web), DevTestOps practices like continuous integration (CI), continuous testing (CT), and continuous deployment (CD)
 - **Languages, Tools & Frameworks:** Java, Python, JavaScript, Shell scripting, REST-assured, Selenium WebDriver, Appium, TestNG, Cucumber, behave, lemoncheesecake, Chai.js, Mocha.js, Gatling, k6, Locust, Maven, Gradle, virtualenv, NPM, ReportPortal
 - **DevOps & Infrastructure:** Docker, Kubernetes, GitLab, Jenkins, TeamCity, GoCD, CircleCI
@@ -16,7 +16,7 @@ Lead Test Engineer skilled in software testing, tooling, and automation. Proven 
 
 ---
 ## Experience
-### Gojek, Singapore — Lead SDET
+### Gojek, Singapore - Lead SDET
 *Dec 2019 – Feb 2021*
 
 - Led testing efforts and test automation systems for Gojek's **Pricing**, **Platform**, **Cartography**, and **GoFood** teams by building robust API client libraries and automated test suites integrated into CI/CD pipelines, enabling high-quality software releases in agile environments.
@@ -49,7 +49,7 @@ This experience provided valuable insights into the telecom domain and middlewar
 
 This experience helped me gain a strong experience in client communication, cross-functional collaboration, and rapid adaptation to diverse projects within tight timelines, enhancing delivery quality and stakeholder satisfaction.
 
-### AgroStar, Pune, India — Lead SDET
+### AgroStar, Pune, India - Lead SDET
 *Dec 2016 – Nov 2018*  
 
 Introduced standard Test Engineering practices like bug triaging, testing strategy, planning, and test automation to AgroStar's young technology team.
@@ -60,7 +60,7 @@ Introduced standard Test Engineering practices like bug triaging, testing strate
 
 This experience honed my ability to navigate diverse challenges across multiple teams and gain confidence in building automation solutions from scratch.
 
-### NVIDIA, Pune, India — Software QA Engineer
+### NVIDIA, Pune, India - Software QA Engineer
 *Oct 2010 – Dec 2016*  
 
 - Contributed to multiple projects involving **3** years of manual testing and **2** years of test automation on various NVIDIA mobile platforms. Gained knowledge of the software testing fundamentals like bug life cycle, reporting, triaging, and analysis.
