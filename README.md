@@ -52,7 +52,7 @@ Introduced standard Test Engineering practices like bug triaging, testing strate
 
 ---
 
-## Core Competencies
+## Skills & Core Competencies
 - Test Engineering & Leadership: Quality assurance (QA), technical team leadership and mentoring, cross-functional collaboration, technical recruiting
 - Test Automation: Test automation (backend, mobile, web), DevTestOps practices like continuous integration (CI), continuous testing (CT), and continuous deployment (CD)
 - Languages, Tools & Frameworks: Java, Python, JavaScript, Shell scripting, REST-assured, Selenium WebDriver, Appium, TestNG, Cucumber, behave, lemoncheesecake, Chai.js, Mocha.js, Gatling, k6, Locust, Maven, Gradle, virtualenv, NPM, ReportPortal
