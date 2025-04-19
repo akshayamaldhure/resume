@@ -13,29 +13,29 @@ Lead Test Engineer with deep expertise in software testing, automation, and DevT
 - Architected and scaled multi-project CI pipelines across Pricing, Platform, Cartography, and GoFood teams, cutting test and release cycles from five days to under twenty minutes.
 - Designed a parallelized functional test suite (400+ tests) executing in under ten minutes; packaged as reusable JAR artifacts - slashing deployment time by thirty minutes per release.
 - Built Git hooks for pre-commit linting, static analysis, and unit tests - removing up to ten minutes of CI runtime per service change/commit.
-- Developed a traffic-shadowing price-diff tool and automated bulk database migration and validation scripts - boosting data consistency and operational efficiency with the new Pricing services and stack.
+- Developed a traffic-shadowing price-diff tool and automated bulk database migration and validation scripts - boosting data consistency and operational efficiency for the new Pricing services and stack.
 - Migrated 100+ legacy Postman-based integration tests into the central testing framework - streamlining test execution, reducing maintenance overhead, and easing debugging of test failures.
 - Boosted developer productivity by adding support for debugging parameters into backend services, integrating ReportPortal with step-level logging support, and setting up Slack alerting.
 
 ### Circles.Life, Singapore - Senior SDET
 *December 2019 – February 2021*  
 
-- Built an HTTP REST API in Node.js on top of the diameter-client to simulate call data records - saving up to forty person minutes of manual testing testing per scenario.
-- Built and maintained component-level test suite for the Business Support System (BSS) Middleware - saving up to than 50% testing time savings.
+- Built an HTTP REST API in Node.js on top of the diameter-client to simulate call data records - saving up to forty person minutes of manual testing time per scenario.
+- Built and maintained component-level test suite for the Business Support System (BSS) Middleware - saving up to than 50% testing time.
 - Developed end-to-end tests for the Circles.Life consumer Android app - reducing up to 50% testing time for the weekly app release cycles.
-- Facilitated unit testing for six different teams and over forty microservices - reducing the number of functional testing and bug fixing time by more than 30%.
+- Facilitated unit testing for six different teams and over forty microservices - reducing the functional testing and bug fixing time by more than 30%.
 - Automated weekly release candidate deployments and communication process - reducing manual efforts by up to eight person hours per week.
 
 ### Thoughtworks, Pune, India - Senior Software Consultant (Quality Analyst)
 *November 2018 – November 2019*  
 
 - Developed a data-driven data integrity validation system and integrated automated test pipelines across multiple data layers including Microsoft SQL Server, Event Store, Elasticsearch, and MongoDB for an event-driven alternative assets platform - reducing data discrepancies in end-to-end testing cycles by 40%.
-- Designed and executed a load testing suite with monitoring and profiling the backend services for a major Indian bank - identifying three critical functional and performance bottlenecks in the sign-in and loan application processing flow, thereby improving the user experience by cutting down the latencies in the end-to-end flow by 20%.
+- Designed and executed a load testing suite with monitoring and profiling the backend services for a major Indian bank - identifying three critical performance bottlenecks in the user sign-in and loan application processing flow, thereby improving the user experience in the end-to-end load application flow.
 
 ### AgroStar, Pune, India - Lead SDET
 *December 2016 – November 2018*  
 
-- Achieved reduction of more than sixty person hours per week by introducing Test Engineering standards and practices like bug triaging, test planning, and test automation to AgroStar's young technology team - helping the team catch more than ten critical functional issues over a year.
+- Achieved reduction of more than sixty person hours per week by introducing Test Engineering standards and practices like bug triaging, test planning, and test automation to AgroStar's young technology team - helping the teams catch more than ten critical functional issues over a year.
 - Developed a load test suite that helped the team assess and fine-tune the performance of application’s communication-service - improving the social media user experience on the Farmer App by reducing the page loading times by up to 40%.
 - Reduced the manual lead collection time for the Operations Team by up to 80% and helped the leadership with meaningful business analytics by developing scripts and utilities used for daily and weekly reporting.
 
