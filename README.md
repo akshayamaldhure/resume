@@ -2,52 +2,47 @@
 
 [linkedin.com/in/akshaymaldhure](https://www.linkedin.com/in/akshaymaldhure) | [akshaymaldhure@gmail.com](mailto:akshaymaldhure@gmail.com) | +6589218180
 
-Lead Test Engineer with deep expertise in software testing, automation, and DevTestOps, consistently reducing testing times by up to 80% thereby accelerating software delivery. Proven abilities to build reliable and scalable automated testing systems that enhance developer efficiency and experience, and ensure high-quality releases in agile environments. Skilled mentor and collaborator, driving best practices, clean code principles, and a culture of innovation to achieve comprehensive test coverage and long-term maintainability.
+Lead Test Engineer with deep expertise in software testing, automation, and DevTestOps, consistently reducing testing times for accelerated software deliveries. Proven abilities to build reliable and scalable automated testing systems that enhance developer efficiency and experience, and ensure high-quality releases in agile environments. Skilled mentor and collaborator, driving best practices, clean code principles, and a culture of innovation to achieve comprehensive test coverage and long-term maintainability.
 
 ---
 ## Experience
 ### Gojek, Singapore - Lead SDET
-*Feb 2021 – Present*
+*February 2021 – Present*
 
-- Led testing processes and test automation systems for various team within Gojek like Pricing, Platform, Cartography, and GoFood, by building robust and maintainable automated test suites and framework integrated into CI/CD pipelines.
-- Led a team of 3 test engineers, mentored, established best testing practices, and ensured quality delivery through code reviews, and testing standards.
-- Reduced software testing and release cycles from 5 days to under 20 minutes by designing and implementing a scalable multi-project continuous integration (CI) setup using reusable CI templates.
-- Achieved and maintained 95%-100% automation coverage for critical test cases across backend services, with over 400 fast and reliable functional tests executed in under 10 minutes through optimal parallelism.
-- Developed and deployed reusable Git hooks for pre-commit linting, static analysis, and unit testing, reducing CI processing time by up to 10 minutes per change per service.
-- Slashed the end-to-end deployment time by over 30 minutes per deployment through efficient packaging of functional tests into a JAR artifact, enhancing reusability and execution speed.
-- Migrated legacy Postman-based integration tests into the standardised central testing framework, streamlining test execution, reducing maintenance overhead, and easing debugging of test failures.
-- Built tools for evaluating pricing discrepancies via a traffic shadowing based price diff tool and implemented scripts for high-volume bulk database migrations, improving data consistency and operational efficiency across the old and new versions of the Pricing services.
-- Enhanced test debugging efficiency by over 50% by introducing advanced debugging support into application services and implementing automated test data cleanup processes for sustainable test environments.
-- Improved developer productivity for debugging test failures by integrating ReportPortal for rich test reporting, implementing step-level logging, and setting up Slack alerting for real-time feedback on test results per commit.
+- Led and mentored a team of three SDETs, established testing standards, code review practices, and CI/CD ownership - sustaining 95%-100% test automation for critical backend services.
+- Architected and scaled multi-project CI pipelines across Pricing, Platform, Cartography, and GoFood teams, cutting test and release cycles from five days to under twenty minutes.
+- Designed a parallelized functional test suite (400+ tests) executing in under ten minutes; packaged as reusable JAR artifacts - slashing deployment time by thirty minutes per release.
+- Built Git hooks for pre-commit linting, static analysis, and unit tests - removing up to ten minutes of CI runtime per service change/commit.
+- Developed a traffic-shadowing price-diff tool and automated bulk database migration and validation scripts - boosting data consistency and operational efficiency with the new Pricing services and stack.
+- Migrated 100+ legacy Postman-based integration tests into the central testing framework - streamlining test execution, reducing maintenance overhead, and easing debugging of test failures.
+- Boosted developer productivity by adding support for debugging parameters into backend services, integrating ReportPortal with step-level logging support, and setting up Slack alerting.
 
 ### Circles.Life, Singapore - Senior SDET
-*Dec 2019 – Feb 2021*  
+*December 2019 – February 2021*  
 
-- Created an HTTP REST API in Node.js on top of the diameter-client to simulate call data records, streamlining testing across calls, data, SMS, billing, and notifications. Used by manual QAs and automated tests, saving up to 40 person minutes per scenario across teams, eliminating the manual efforts of up to 2 hours required for these simulations, bringing it down to under a few seconds per test case.
-- Achieved more than 40% testing time savings by collaborating on this legacy API testing project and increasing the test coverage, facilitating component-level testing in Business Support System (BSS) Middleware changes.
-- Developed end-to-end tests for the Circles.Life consumer Android app, aiding in regression testing for weekly releases and reducing the testing time by more than 50%.
-- Facilitated unit testing for 6 teams and over 40 microservices in CI, effectively breducing the number of functional bug fixing cycles by more than 30%.
-- Automated weekly release candidate deployments, reducing manual effort by up to 8 person hours per week.
+- Built an HTTP REST API in Node.js on top of the diameter-client to simulate call data records - saving up to forty person minutes of manual testing testing per scenario.
+- Built and maintained component-level test suite for the Business Support System (BSS) Middleware - saving up to than 50% testing time savings.
+- Developed end-to-end tests for the Circles.Life consumer Android app - reducing up to 50% testing time for the weekly app release cycles.
+- Facilitated unit testing for six different teams and over forty microservices - reducing the number of functional testing and bug fixing time by more than 30%.
+- Automated weekly release candidate deployments and communication process - reducing manual efforts by up to eight person hours per week.
 
 ### Thoughtworks, Pune, India - Senior Software Consultant (Quality Analyst)
-*Nov 2018 – Nov 2019*  
+*November 2018 – November 2019*  
 
-- Reduced data processing discrepancies in end-to-end testing cycles by 40% by co-developing a data-driven validation suite for an event-driven alternative assets platform. Integrated automated test pipelines across multiple data layers including Microsoft SQL Server, Event Store, Elasticsearch, and MongoDB to ensure comprehensive data integrity validation.
-- Designed and implemented a load testing suite for a large-scale lending platform for a major Indian bank, identifying 3 critical functional and performance bottlenecks. Improved overall user experience by reducing sign-in and loan application processing time by at least 20%. Enabled performance optimization of key RESTful APIs through detailed monitoring and profiling, supporting developers in fine-tuning backend services.
+- Developed a data-driven data integrity validation system and integrated automated test pipelines across multiple data layers including Microsoft SQL Server, Event Store, Elasticsearch, and MongoDB for an event-driven alternative assets platform - reducing data discrepancies in end-to-end testing cycles by 40%.
+- Designed and executed a load testing suite with monitoring and profiling the backend services for a major Indian bank - identifying three critical functional and performance bottlenecks in the sign-in and loan application processing flow, thereby improving the user experience by cutting down the latencies in the end-to-end flow by 20%.
 
 ### AgroStar, Pune, India - Lead SDET
-*Dec 2016 – Nov 2018*  
+*December 2016 – November 2018*  
 
-Introduced standard Test Engineering practices like bug triaging, testing strategy, planning, and test automation to AgroStar's young technology team.
-- Achieved a total reduction of more than 60 person hours per week by collaborating on multiple projects, building test automation systems, writing automated tests, and making continuous improvements in sprints over 2 years of test automation efforts.
-- Reduced the manual testing times by more than 60% per sprint by building a test framework comprising more than 8 different comprehensive test suites. These tests ensured robustness amidst core user flow changes and refactoring activities by helping the team catch more than 10 critical functional issues over a year.
-- Improved the user experience in using the social media section on the Farmer App by reducing the page loading times by up to 40% by building a load test suite that helped the team assess and fine-tune the performance of application’s communication-service.
-- Reduced the manual lead collection time for the Operations Team by 80% and helped the management with meaningful business analytics by developing ad-hoc scripts and utilities.
+- Achieved reduction of more than sixty person hours per week by introducing Test Engineering standards and practices like bug triaging, test planning, and test automation to AgroStar's young technology team - helping the team catch more than ten critical functional issues over a year.
+- Developed a load test suite that helped the team assess and fine-tune the performance of application’s communication-service - improving the social media user experience on the Farmer App by reducing the page loading times by up to 40%.
+- Reduced the manual lead collection time for the Operations Team by up to 80% and helped the leadership with meaningful business analytics by developing scripts and utilities used for daily and weekly reporting.
 
 ### NVIDIA, Pune, India - Software QA Engineer
-*Oct 2010 – Dec 2016*  
+*October 2010 – December 2016*  
 
-- Worked on the end-to-end multimedia and GameStream testing deliverables for Android, Linux, ChromeOS and Windows operating systems. Worked on change list tracking and testing deliverables for daily software releases. Caught more than 15 critical bugs over 2 years of testing.
+- Worked on the end-to-end multimedia and GameStream testing deliverables for Android, Linux, ChromeOS and Windows operating systems. Worked on change list tracking and testing deliverables for daily software releases. Caught more than fifteen critical bugs over two years of rigorous testing.
 - Gained practical hands-on test automation experience working on OTA Update and GameStream Automation, reducing the manual testing time of critical application flows by more than 30%.
 
 ---
@@ -59,13 +54,3 @@ Introduced standard Test Engineering practices like bug triaging, testing strate
 - DevOps & Infrastructure: Docker, Kubernetes, GitLab, Jenkins, TeamCity, GoCD, CircleCI
 - Databases: MySQL, MongoDB, Elasticsearch, Redis, Kafka
 - Version Control: Git
-
----
-
-## Blog
-
-- [Building a multi-pipeline CI setup for running automated tests in GitLab](https://medium.com/gojekengineering/building-a-multi-pipeline-ci-setup-for-running-automated-tests-in-gitlab-106f7cf1f7b3)
-- [Data-driven migration testing with REST APIs and Python](https://medium.com/quick-code/data-driven-migration-testing-with-rest-apis-and-python-4585fb13b23f)
-- [Managing the test data for functional tests](https://medium.com/circleslife/managing-the-test-data-for-functional-tests-7f299aae2957)
-- [As a QA, this is how I used the Event Store in end-to-end tests](https://medium.com/swlh/as-a-qa-this-is-how-i-used-the-event-store-2bb028c5ccf8)
-- [How I ended up testing Kafka integrations using API tests](https://medium.com/@akshaymaldhure/how-i-ended-up-testing-kafka-integrations-using-api-tests-f4731ef819b2)
