@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Arial", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-size: 8pt;
   line-height: 1.4;
   color: #000;
@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Arial", sans-serif;
+  font-family: "Helvetica", sans-serif;
   font-weight: bold;
   margin: 10px;
   page-break-after: avoid;
