@@ -11,7 +11,7 @@ Lead Test Engineer with expertise in software testing, automation, and DevTestOp
 
 - Led and mentored a team of 3 SDETs, establishing testing standards, code review practices, and Continuous Integration/Continuous Delivery (CI/CD) ownership - achieving 95-100% test automation coverage for critical backend services.
 - Architected and scaled CI pipelines across multiple teams (Pricing, Platform, Cartography, GoFood, Driver Incentives) - reducing test and release cycles from 5 days to under 20 minutes.
-- Designed a parallelized multiple functional test suites with 400+ tests executing in under 10 minutes, and packaged it as reusable JAR artifacts - cutting deployment time by 30 minutes per release.
+- Designed multiple parallelized functional test suites with 600+ tests executing in under 15 minutes, packaged as reusable JAR artifacts - cutting deployment time by 30 minutes per release.
 - Enhanced CI efficiency by implementing Git hooks for linting, static analysis, and unit testing - saving up to 10 minutes per service change; migrated 100+ legacy integration tests to a unified testing framework, reducing maintenance overhead.
 - Improved developer productivity and service reliability by developing tools for traffic shadowing and database migration validation, integrating ReportPortal with detailed step-level logging, enabling debugging parameters, and setting up Slack alerts.
 
