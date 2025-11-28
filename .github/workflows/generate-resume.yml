@@ -1,0 +1,32 @@
+name: Generate Resume PDF
+
+on:
+  push:
+    paths:
+      - "README.md"
+      - "resume.css"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install md-to-pdf
+        run: npm install -g md-to-pdf
+
+      - name: Generate PDF
+        run: md-to-pdf README.md --stylesheet resume.css --output resume.pdf
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume-pdf
+          path: Akshay_Maldhure_Resume.pdf
