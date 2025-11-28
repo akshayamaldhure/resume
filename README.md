@@ -11,7 +11,7 @@ Lead Test Engineer with expertise in software testing, automation, and DevTestOp
 
 - Led and mentored a team of 3 SDETs, establishing testing standards, code review practices, and Continuous Integration/Continuous Delivery (CI/CD) ownership - achieving 95-100% test automation coverage for critical backend services.
 - Architected and scaled CI pipelines across multiple teams (Pricing, Platform, Cartography, GoFood, Driver Incentives) - reducing test and release cycles from 5 days to under 20 minutes.
-- Designed multiple parallelized functional test suites with 600+ tests executing in under 15 minutes, packaged as reusable JAR artifacts - cutting deployment time by 30 minutes per release.
+- Designed multiple parallelized functional test suites with 600+ backend and UI tests executing in under 15 minutes, packaged as reusable JAR artifacts - cutting deployment time by 30 minutes per release.
 - Enhanced CI efficiency by implementing Git hooks for linting, static analysis, and unit testing - saving up to 10 minutes per service change; migrated 100+ legacy integration tests to a unified testing framework, reducing maintenance overhead.
 - Improved developer productivity and service reliability by developing tools for traffic shadowing and database migration validation, integrating ReportPortal with detailed step-level logging, enabling debugging parameters, and setting up Slack alerts.
 
@@ -43,6 +43,6 @@ Lead Test Engineer with expertise in software testing, automation, and DevTestOp
 
 ## Skills & Core Competencies
 
-- Test Engineering & Leadership: Expertise in QA strategy, QA automation (backend, mobile, web), test framework development, and DevTestOps practices (CI/CD/CT). Experienced in technical leadership, mentoring, cross-functional collaboration, and technical hiring.
+- Test Engineering & Leadership: Expertise in QA strategy, QA automation (backend, UI [mobile, web]), test framework development, and DevTestOps practices (CI/CD/CT). Experienced in technical leadership, mentoring, cross-functional collaboration, and technical hiring.
 - Technologies & Tools: Proficient in Java, Python, TypeScript, JavaScript, and Shell scripting. Hands-on with tools and frameworks like REST-assured, Playwright, Selenium WebDriver, Appium, TestNG, Cucumber, behave (BDD), lemoncheesecake, Chai.js, Mocha.js, JMeter, Gatling, k6, Locust, Maven, Gradle, virtualenv, NPM, and ReportPortal.
 - Infrastructure & Systems: Skilled in Docker, Kubernetes, GitLab, Jenkins, TeamCity, GoCD, CircleCI, Git, observability and monitoring using Prometheus and Grafana, and working with databases and messaging systems such as MySQL, MongoDB, Elasticsearch, Redis, and Kafka.
