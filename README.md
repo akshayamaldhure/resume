@@ -2,7 +2,7 @@
 
 [linkedin.com/in/akshaymaldhure](https://www.linkedin.com/in/akshaymaldhure) | [akshaymaldhure@gmail.com](mailto:akshaymaldhure@gmail.com) | +6589218180
 
-Lead Test Engineer with expertise in software testing, automation, and DevTestOps, enabling teams to deliver faster and higher-quality releases. Strong collaborator and mentor, championing best practices and innovation to boost developer efficiency and long-term scalability and maintainability. Experience integrating GenAI models (OpenAI, Claude) into test planning and automation pipelines and leveraging LLMs for code review, test script refactoring.
+Lead Test Engineer with expertise in software testing, automation, and DevTestOps, enabling teams to deliver faster and higher-quality releases. Strong collaborator and mentor, championing best practices and innovation to boost developer efficiency and long-term scalability and maintainability. Experienced in integrating GenAI models (OpenAI, Claude) into test planning and automation pipelines and leveraging LLMs for code review, test script refactoring.
 
 ---
 ## Experience
