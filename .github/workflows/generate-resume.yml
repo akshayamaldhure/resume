@@ -5,7 +5,10 @@ on:
     paths:
       - "README.md"
       - "resume.css"
-  workflow_dispatch:
+  workflow_dispatch:   # Needed for manual trigger of the workflow
+
+permissions:
+  contents: write   # Needed for committing changes back to repo
 
 jobs:
   generate:
