@@ -5,6 +5,7 @@ on:
     paths:
       - "README.md"
       - "resume.css"
+workflow_dispatch:
 
 jobs:
   generate:
