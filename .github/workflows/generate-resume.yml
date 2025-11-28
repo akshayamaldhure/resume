@@ -24,7 +24,10 @@ jobs:
         run: npm install -g md-to-pdf
 
       - name: Generate PDF
-        run: md-to-pdf README.md --stylesheet resume.css --output resume.pdf
+        run: md-to-pdf README.md --stylesheet resume.css
+
+      - name: Rename PDF
+        run: mv README.pdf "Akshay_Maldhure_Resume.pdf"
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
