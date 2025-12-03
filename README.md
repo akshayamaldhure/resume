@@ -2,7 +2,7 @@
 
 [linkedin.com/in/akshaymaldhure](https://www.linkedin.com/in/akshaymaldhure) | [akshaymaldhure@gmail.com](mailto:akshaymaldhure@gmail.com) | +6589218180
 
-Lead Test Engineer with expertise in software testing, automation, and DevTestOps, enabling teams to deliver faster and higher-quality releases. Strong collaborator and mentor, championing best practices and innovation to boost developer efficiency and long-term scalability and maintainability. Experienced in integrating GenAI models (OpenAI, Claude) into test planning and automation pipelines and leveraging LLMs for code review, test script refactoring.
+Lead Test Engineer with expertise in software testing, automation, and DevTestOps, enabling teams to deliver faster and higher-quality releases. Strong collaborator and mentor, championing best practices and innovation to boost developer efficiency and long-term scalability and maintainability. Experienced in integrating Generative AI models (OpenAI, Claude) and Agentic AI tools (Cursor, Copilot) into test planning and automation pipelines and leveraging LLMs for code review, test script refactoring.
 
 ---
 ## Experience
@@ -44,5 +44,5 @@ Lead Test Engineer with expertise in software testing, automation, and DevTestOp
 ## Skills & Core Competencies
 
 - Test Engineering & Leadership: Expertise in QA strategy, QA automation (backend, UI [mobile, web]), test framework development, and DevTestOps practices (CI/CD/CT). Experienced in technical leadership, mentoring, cross-functional collaboration, and technical hiring.
-- Technologies & Tools: Proficient in Java, Python, TypeScript, JavaScript, and Shell scripting. Hands-on with tools and frameworks like REST-assured, Playwright, Selenium WebDriver, Appium, TestNG, Cucumber, behave (BDD), lemoncheesecake, Chai.js, Mocha.js, JMeter, Gatling, k6, Locust, Maven, Gradle, virtualenv, NPM, and ReportPortal.
+- Technologies & Tools: Proficient in Java, Python, TypeScript, JavaScript, and Shell scripting. Hands-on with tools and frameworks like REST-assured, Playwright (with MCP), Selenium WebDriver, Appium, TestNG, Cucumber, behave (BDD), lemoncheesecake, Chai.js, Mocha.js, JMeter, Gatling, k6, Locust, Maven, Gradle, virtualenv, NPM, and ReportPortal.
 - Infrastructure & Systems: Skilled in Docker, Kubernetes, GitLab, Jenkins, TeamCity, GoCD, CircleCI, Git, observability and monitoring using Prometheus and Grafana, and working with databases and messaging systems such as MySQL, MongoDB, Elasticsearch, Redis, and Kafka.
